@@ -21,12 +21,12 @@ A Fast food company seeks to optimize sales and marketing strategies by analyzin
     - Identify the promotion that generates the highest sales 
     - Compare weekly sales performance over the span of four weeks 
     - Determine the most effective promotion type
-<br>
+
 2. Evaluate Market Impact
     - Identify the market size that generates the highest sales 
     - Compare sales performance based on promotions and market size
     - Develop optimal strategies tailored to each market segment
-<br>
+
 3. Assess Store-Level Performance 
     - Identify the store that generates the highest sales
     - Compare sales performance based on promotion and store age group
